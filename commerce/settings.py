@@ -46,8 +46,8 @@ INSTALLED_APPS = [
     'user',
     'review',
     'wishlist',
-    'rest_framework_authtoken',
-    'rest_framework_simplejwt'
+    'rest_framework.authtoken',
+    'rest_framework_simplejwt',
 ]
 
 MIDDLEWARE = [
